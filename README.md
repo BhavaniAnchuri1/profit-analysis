@@ -1,6 +1,19 @@
 # PROFIT ANALYSIS
 
-
+## Table of contents
+-  [Project overview](#project-overview)
+-  [Data sources](#data-sources)
+-  [Tools](#tools)
+-  [Data cleaning](#data-cleaning)
+-  [Regression Analysis](#regression-analysis)
+-  [Profit prediction](#profit-prediction)
+-  [Data visualization](#data-visualization)
+-  [Data Analysis](#data-analysis)
+-  [Results](#results)
+-  [Observations](#observations)
+-  [Recommendations](#recommendations)
+-  [Conclusion](#conclusion)
+  
 
 
 ### Project overview
@@ -14,7 +27,7 @@ The primary dataset used for this analysis is the "startups_data.csv" file, cont
 - SQL Server - Data analysis
 - PowerBI - creating reports
 
-### Data cleaning/preparation
+### Data cleaning
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
